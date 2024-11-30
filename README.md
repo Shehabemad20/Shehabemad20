@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨💻 All of my projects are available at GitHub:[(https://github.com/Shehabmohamed20)] 
+- 👨💻 All of my projects are available at GitHub:[(https://www.linkedin.com/in/shehab-aboeldahab-02975027b/)] 
 
 - 📫 How to reach me **shehabxuwk@gmail.com**
 
